@@ -1,0 +1,4 @@
+cn\org\unk\agentmain\MyClassFileTransformer.class
+cn\org\unk\agentmain\MyAgent.class
+cn\org\unk\premain\MyAgent.class
+cn\org\unk\premain\MyClassFileTransformer.class
